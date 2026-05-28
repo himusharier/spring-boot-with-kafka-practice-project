@@ -1,0 +1,7 @@
+spring:
+  application:
+    name: springboot-kafka
+
+  kafka:
+    consumer:
+      auto-offset-reset: earliest
